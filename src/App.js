@@ -42,12 +42,12 @@ function App() {
   function getMessage() {
     const percentage = numberComplete/numberTotal * 100;
     if (percentage === 0) {
-      return 'Try to do at least one! 🙏';
+      return 'Try to do at least one! 🤝';
     }
     if (percentage === 100) {
-      return 'Nice job for today! 🏝';
+      return 'Nice job for today! 👌';
     }
-    return 'Keep it going 💪🏻';
+    return 'Keep it going 🌞';
   }
 
   function renameTask(index,newName) {
