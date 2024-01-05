@@ -1,5 +1,6 @@
 # Getting Started with Create React App 
-# this appisReact Todo Tasks
+# This App Is React Todo Tasks
+
 <img align="right" alt="Coding" width="1000" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
