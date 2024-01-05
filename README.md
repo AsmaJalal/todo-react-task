@@ -1,4 +1,3 @@
-![MasterHead]([https://user-images.githubusercontent.com/99876749/204871672-98eeac12-1d33-4f4a-9aa3-c0d820b6d942.gif](https://raw.githubusercontent.com/AsmaJalal/todo-react-task/master/src/todo.gif))
 # Getting Started with Create React App 
 # this appisReact Todo Tasks
 <img align="right" alt="Coding" width="1000" height="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
